@@ -1,0 +1,1 @@
+select this processor for the project in keil: P89V51RD2
